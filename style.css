@@ -82,7 +82,7 @@ main {
 		margin: 0 auto;
 	}
 	.content-number {
-		width: 15%;
+		width: 100px;
 		text-align: center;
 		font-size: 200%;
 		padding: 3px 0;
